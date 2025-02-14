@@ -1,0 +1,10 @@
+pods/project/marketplaceservice/entities/OrderItem.class
+pods/project/marketplaceservice/entities/Order.class
+pods/project/marketplaceservice/controllers/ProductController.class
+pods/project/marketplaceservice/controllers/HelloController.class
+pods/project/marketplaceservice/repositories/ProductsRepository.class
+pods/project/marketplaceservice/MarketplaceServiceApplication.class
+pods/project/marketplaceservice/controllers/OrderController.class
+pods/project/marketplaceservice/components/ProductsPopulator.class
+pods/project/marketplaceservice/repositories/OrderRepository.class
+pods/project/marketplaceservice/entities/Product.class
